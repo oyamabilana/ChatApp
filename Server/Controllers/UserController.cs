@@ -29,9 +29,16 @@ namespace ChatApp.Server.Controllers
         }
 
         [HttpGet]
-        public List<User> Get()
+        public List<Contact> Get()
         {
-            return _context.Users.ToList();
+            List<User> users = _context.Users.ToList();
+            List<Contact> contacts = new List<Contact>();
+
+            foreach (var user in users)
+            {
+                contacts.Add(new Contact(user.FirstName, user.LastName));
+            }
+            return contacts;
         }
     }
 }

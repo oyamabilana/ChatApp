@@ -94,39 +94,6 @@
         }
       },
       {
-        "HashCode": 1850455803,
-        "Kind": "Components.Component",
-        "Name": "ChatApp.Client.Pages.Contacts",
-        "AssemblyName": "ChatApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Contacts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ChatApp.Client.Pages.Contacts"
-        }
-      },
-      {
-        "HashCode": 1759004827,
-        "Kind": "Components.Component",
-        "Name": "ChatApp.Client.Pages.Contacts",
-        "AssemblyName": "ChatApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChatApp.Client.Pages.Contacts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ChatApp.Client.Pages.Contacts",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1000864329,
         "Kind": "Components.Component",
         "Name": "ChatApp.Client.Pages.Profile",
@@ -189,6 +156,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "ChatApp.Client.Pages.Settings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1850455803,
+        "Kind": "Components.Component",
+        "Name": "ChatApp.Client.Pages.Contacts",
+        "AssemblyName": "ChatApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ChatApp.Client.Pages.Contacts"
+        }
+      },
+      {
+        "HashCode": 1759004827,
+        "Kind": "Components.Component",
+        "Name": "ChatApp.Client.Pages.Contacts",
+        "AssemblyName": "ChatApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChatApp.Client.Pages.Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ChatApp.Client.Pages.Contacts",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

@@ -27,6 +27,7 @@ namespace ChatApp.Server
             services.AddControllersWithViews();
             services.AddRazorPages();
 
+            //***Added for making database work by showing Data in JSON in browser window when passing user parameter***//
             services.AddEntityFrameworkSqlite().AddDbContext<ChatAppContext>();
         }
 

@@ -8,6 +8,11 @@ namespace ChatApp.Shared{
         public Contact(){
         }
 
+        public Contact(string firstName, string lastName){
+            this.FirstName = firstName;
+            this.LastName = lastName;
+        }
+
         public Contact(int contactId, string firstName, string lastName){
             this.ContactId = contactId;
             this.FirstName = firstName;
