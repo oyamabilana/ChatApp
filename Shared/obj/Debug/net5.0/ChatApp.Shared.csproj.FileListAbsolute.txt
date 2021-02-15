@@ -1,0 +1,12 @@
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\bin\Debug\net5.0\ChatApp.Shared.deps.json
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\bin\Debug\net5.0\ChatApp.Shared.dll
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\bin\Debug\net5.0\ref\ChatApp.Shared.dll
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\bin\Debug\net5.0\ChatApp.Shared.pdb
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.csprojAssemblyReference.cache
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.AssemblyInfoInputs.cache
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.AssemblyInfo.cs
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.dll
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ref\ChatApp.Shared.dll
+C:\Users\oyama\Documents\Dev\.NET\ChatApp\Shared\obj\Debug\net5.0\ChatApp.Shared.pdb
